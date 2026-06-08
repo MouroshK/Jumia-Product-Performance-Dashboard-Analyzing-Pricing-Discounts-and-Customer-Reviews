@@ -17,6 +17,9 @@ The Dataset contains the following columns :
 
 
 
+Sample of the data is as shown below
+
+![My Excel Dashboard](Screenshot%202026-06-06%20084548.png)
     
 
 
