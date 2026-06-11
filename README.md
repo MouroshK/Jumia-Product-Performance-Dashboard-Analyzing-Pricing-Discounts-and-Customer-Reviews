@@ -169,3 +169,7 @@ Identify the top 10 products with the highest discounts , Top 10 products with m
 
   Here is how the dashboard looks like
 
+
+
+  ![Jumia Product Performance Dashboard](Screenshot%202026-06-11%20223046.png)
+
